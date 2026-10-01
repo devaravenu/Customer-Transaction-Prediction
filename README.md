@@ -3,7 +3,7 @@
 The dataset used in this project was provided as part of the **Customer Transaction Prediction** capstone project.
 
 **Dataset Source:**  
-DataMites CDS Capstone Projects
+CDS Capstone Projects
 
 **Download Link:**  
 https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1003-CustTransPred.zip
